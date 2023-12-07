@@ -1,0 +1,2 @@
+An assembly line throughput simulator, include a doubly-linked pipeline which move forward each cycle, user-defined input rate and worker type/position.
+use make to for project compilation
